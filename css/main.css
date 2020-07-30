@@ -76,9 +76,14 @@
 
 /* -- LAYOUT -- */ 
 
+#img-hero {
+	background-image: url("/img/img-hero@2x.jpg");
+	width: 100%;
+}
 
-
-
+.day-5-img {
+	background-color: pink;
+}
 /* -- HEADERS -- */ 
 
 
